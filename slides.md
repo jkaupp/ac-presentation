@@ -1,4 +1,4 @@
-class: left center
+class: middle left
 
 # Assessment Coordinator Interview
 
