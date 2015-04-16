@@ -21,6 +21,11 @@ class: middle center
 
 ---
 
-##and how you would propose to **work with departments** to **improve the quality** of the **process and our programs.**"
+##and how you would propose to **work with departments...** 
+
+
+---
+
+##to **improve the quality** of the **process** and our **programs.**"
 
 
