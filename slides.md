@@ -1,3 +1,5 @@
+class: middle, center
+
 ## Assessment Coordinator Interview
 
 
