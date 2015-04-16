@@ -13,18 +13,26 @@ class: middle center
 
 ---
 
+class: middle center
+
 ##"...including what **information** you would propose to gather, ..." 
 
 ---
+
+class: middle center
 
 ##"...**analysis** you would conduct, ..."
 
 ---
 
+class: middle center
+
 ##and how you would propose to **work with departments...** 
 
 
 ---
+
+class: middle center
 
 ##to **improve the quality** of the **process** and our **programs.**"
 
