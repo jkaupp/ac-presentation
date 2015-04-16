@@ -2,6 +2,6 @@
 
 
 ##Jake Kaupp
-###April 17th, 2015
+April 17th, 2015
 
 ---
