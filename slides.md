@@ -208,6 +208,16 @@ class: middle center
 ### Improving the **quality of the program** is tied to **student achievement**, but is now focused on **skills and abilities** students leave with, rather than grades.
 ]
 
+???
+
+- Clearly articulated learning outcomes are one of the top 3 effect sizes for increasing student achievement
+- Starting with assessment we start to build reflective practise. 
+- Is this the best way to assess our students?
+- Is they achieving the outcomes? Is peformance acceptable?
+- Can we develop these outcomes better?
+- Is there a better way?
+- It's about the continued committment to improving quality.
+
 ---
 
 .left-column[
