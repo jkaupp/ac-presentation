@@ -28,8 +28,6 @@ class: middle center
 
 class: middle center
 
-<<<<<<< HEAD
-=======
 ![Proposed Process](process.png)
 
 ???
@@ -85,7 +83,6 @@ the programs can share common experiences and challenges, leverage and pool reso
 
 class: middle center
 
->>>>>>> master
 ##"...including what **information** you would propose to gather, ..." 
 
 
@@ -123,17 +120,10 @@ Depending upon levels of engagement and interest, additional strategies could be
 
 class: middle center
 
-class: middle center
-
 ##"...**analysis** you would conduct, ..."
 
 ---
 
-<<<<<<< HEAD
-class: middle center
-
-##and how you would propose to **work with departments...** 
-=======
 .left-column[
   ### Program Evaluation
   ### Curriculum Mapping
@@ -317,17 +307,11 @@ class: middle center
 ---
 
 class: middle center
->>>>>>> master
 
 ![QUOTE](quote.png)
 
 ---
 
-<<<<<<< HEAD
-class: middle center
-
-##to **improve the quality** of the **process** and our **programs.**"
-=======
 .left-column[
   ### HEQCO CT 
   ### HEQCO LOAC
@@ -414,7 +398,6 @@ class: middle center
 ---
 
 class: middle center
->>>>>>> master
 
 #Thank you.
 
