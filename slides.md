@@ -228,6 +228,13 @@ class: middle center
 ### In a continuous cycle, **enhancing process quality** means **streamlining** and **efficiency**, enhanced **reliability, accuracy and validity**, embracing **sustainability**, and being able **innovate and adapt** to the **changing demands** of teaching and learning in higher education.
 ]
 
+- Is there a better way?
+- Committment to improving, to addressing efficiency, reliability, accuracy etc
+- Better for faculty, better for students, better for the program
+- Be able to adapt to existing and future changes to teaching and learning in higher ed
+- integrate Intellectual skills, Competencies, outcomes for transfer, Performance based funding etc
+- Overall, visibly demonstrate the effectiveness of the program for developing quality students
+
 ---
 
 class: middle center
