@@ -340,7 +340,13 @@ Instrument to assess aspects of life-long learning, developed as part of the HEQ
 
 class: middle center
 
-###The TLO has been collaboratively developed with students, and has roots as a formative tool for student improvement.  As such, a visualization framework is in development to provide immediate feedback to the student about their results.
+![TLO Scales](tlo2.png)
+
+---
+
+class: middle center
+
+###The TLO has been **collaboratively developed** with **students**, and has roots as a **formative tool** for student improvement.  As such, a **visualization framework** is in development to provide **immediate feedback** to the student about their results.
 
 ---
 class: middle center
@@ -367,9 +373,33 @@ Founded by the National Council of Deans of Engineering and Applied Science
 
 * Promotes an approach to accreditation rooted in effective practise, faculty ownership and a scholarly approach.
 
-####Recently focused on visualization of assessment data for reporting
+####Recently focused on visualization of curriculum mapping & assessment data for reporting
 
 ]
+
+---
+
+class: middle center
+
+![curriculum](cmapping.png)
+
+---
+
+class: middle center
+
+![cviz1](cviz1.png)
+
+---
+
+class: middle center
+
+![cviz2](cviz2.png)
+
+---
+
+class: middle center
+
+![cviz3](cviz3.png)
 
 ---
 
@@ -381,19 +411,38 @@ class: middle center
 
 class: middle center
 
+![d2l1](D2L.png)
+
+---
+
+class: middle center
+
+![d2l1](D2L2.png)
+
+---
+
+class: middle center
+
+![aggregating](aggregating.png)
+
+---
+
+class: middle center
+
 ![bubble chart](bubble_performance.png)
+
+---
+
+
+class: middle center
+
+![course](course_report.png)
 
 ---
 
 class: middle center
 
 ![IRR](IRR_Report.png)
-
----
-
-class: middle center
-
-![course](course_report.png)
 
 ---
 
