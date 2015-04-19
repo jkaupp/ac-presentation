@@ -22,13 +22,13 @@ https://sites.google.com/site/uoftlearningoutcomesproject/
 class: middle center
 
 
-![Proposed Approach](venn.png)
+![Proposed Approach](image/venn.png)
 
 ---
 
 class: middle center
 
-![Proposed Process](process.png)
+![Proposed Process](image/process.png)
 
 ???
 This approach would blend course-based assessment of learning outcomes with sampled programmatic assessment of learning outcomes using modified meta-rubrics (derived from the VALUE rubrics and exemplified by recent work coming from the University of Toronto's Learning Outcomes project)
@@ -279,7 +279,7 @@ class: middle center
 
 ---
 
-![CT ENG](ct_framework.png)
+![CT ENG](image/ct_framework.png)
 
 ???
 - Authentic, performance-based assessment that also incorporates many opportunities for graduate attribute assessment
@@ -319,13 +319,13 @@ class: middle center
 
 class: middle center
 
-![VALUE PSYCH](value.png)
+![VALUE PSYCH](image/value.png)
 
 ---
 
 class: middle center
 
-![QUOTE](quote.png)
+![QUOTE](image/quote.png)
 
 ---
 
@@ -357,7 +357,7 @@ Instrument to assess aspects of life-long learning, developed as part of the HEQ
 
 class: middle center
 
-![TLO Scales](tlo2.png)
+![TLO Scales](image/tlo2.png)
 
 ---
 
@@ -368,7 +368,7 @@ class: middle center
 ---
 class: middle center
 
-![TLO](tlo.png)
+![TLO](image/tlo.png)
 
 ---
 
@@ -398,68 +398,68 @@ Founded by the National Council of Deans of Engineering and Applied Science
 
 class: middle center
 
-![curriculum](cmapping.png)
+![curriculum](image/cmapping.png)
 
 ---
 
 class: middle center
 
-![cviz1](cviz1.png)
+![cviz1](image/cviz1.png)
 
 ---
 
 class: middle center
 
-![cviz2](cviz2.png)
+![cviz2](image/cviz2.png)
 
 ---
 
 class: middle center
 
-![cviz3](cviz3.png)
+![cviz3](image/cviz3.png)
 
 ---
 
 class: middle center
 
-![treemap](curriculum_treemap.png)
+![treemap](image/curriculum_treemap.png)
 
 ---
 
 class: middle center
 
-![d2l1](D2L.png)
+![d2l1](image/D2L.png)
 
 ---
 
 class: middle center
 
-![d2l1](D2L2.png)
+![d2l1](image/D2L2.png)
 
 ---
 
 class: middle center
 
-![aggregating](aggregating.png)
+![aggregating](image/aggregating.png)
 
 ---
 
 class: middle center
 
-![bubble chart](bubble_performance.png)
+![bubble chart](image/bubble_performance.png)
 
 ---
 
 
 class: middle center
 
-![course](course_report.png)
+![course](image/course_report.png)
 
 ---
 
 class: middle center
 
-![IRR](IRR_Report.png)
+![IRR](image/IRR_Report.png)
 
 ---
 
