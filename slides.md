@@ -22,13 +22,13 @@ https://sites.google.com/site/uoftlearningoutcomesproject/
 class: middle center
 
 
-![Proposed Approach](venn.png)
+![Proposed Approach](image/venn.png)
 
 ---
 
 class: middle center
 
-![Proposed Process](process.png)
+![Proposed Process](image/process.png)
 
 ???
 This approach would blend course-based assessment of learning outcomes with sampled programmatic assessment of learning outcomes using modified meta-rubrics (derived from the VALUE rubrics and exemplified by recent work coming from the University of Toronto's Learning Outcomes project)
@@ -208,6 +208,16 @@ class: middle center
 ### Improving the **quality of the program** is tied to **student achievement**, but is now focused on **skills and abilities** students leave with, rather than grades.
 ]
 
+???
+
+- Clearly articulated learning outcomes are one of the top 3 effect sizes for increasing student achievement
+- Starting with assessment we start to build reflective practise. 
+- Is this the best way to assess our students?
+- Is they achieving the outcomes? Is peformance acceptable?
+- Can we develop these outcomes better?
+- Is there a better way?
+- It's about the continued committment to improving quality.
+
 ---
 
 .left-column[
@@ -217,6 +227,13 @@ class: middle center
 .right-column[
 ### In a continuous cycle, **enhancing process quality** means **streamlining** and **efficiency**, enhanced **reliability, accuracy and validity**, embracing **sustainability**, and being able **innovate and adapt** to the **changing demands** of teaching and learning in higher education.
 ]
+
+- Is there a better way?
+- Committment to improving, to addressing efficiency, reliability, accuracy etc
+- Better for faculty, better for students, better for the program
+- Be able to adapt to existing and future changes to teaching and learning in higher ed
+- integrate Intellectual skills, Competencies, outcomes for transfer, Performance based funding etc
+- Overall, visibly demonstrate the effectiveness of the program for developing quality students
 
 ---
 
@@ -262,7 +279,7 @@ class: middle center
 
 ---
 
-![CT ENG](ct_framework.png)
+![CT ENG](image/ct_framework.png)
 
 ???
 - Authentic, performance-based assessment that also incorporates many opportunities for graduate attribute assessment
@@ -302,13 +319,13 @@ class: middle center
 
 class: middle center
 
-![VALUE PSYCH](value.png)
+![VALUE PSYCH](image/value.png)
 
 ---
 
 class: middle center
 
-![QUOTE](quote.png)
+![QUOTE](image/quote.png)
 
 ---
 
@@ -340,12 +357,18 @@ Instrument to assess aspects of life-long learning, developed as part of the HEQ
 
 class: middle center
 
-###The TLO has been collaboratively developed with students, and has roots as a formative tool for student improvement.  As such, a visualization framework is in development to provide immediate feedback to the student about their results.
+![TLO Scales](image/tlo2.png)
+
+---
+
+class: middle center
+
+###The TLO has been **collaboratively developed** with **students**, and has roots as a **formative tool** for student improvement.  As such, a **visualization framework** is in development to provide **immediate feedback** to the student about their results.
 
 ---
 class: middle center
 
-![TLO](tlo.png)
+![TLO](image/tlo.png)
 
 ---
 
@@ -367,7 +390,7 @@ Founded by the National Council of Deans of Engineering and Applied Science
 
 * Promotes an approach to accreditation rooted in effective practise, faculty ownership and a scholarly approach.
 
-####Recently focused on visualization of assessment data for reporting
+####Recently focused on visualization of curriculum mapping & assessment data for reporting
 
 ]
 
@@ -375,25 +398,68 @@ Founded by the National Council of Deans of Engineering and Applied Science
 
 class: middle center
 
-![treemap](curriculum_treemap.png)
+![curriculum](image/cmapping.png)
 
 ---
 
 class: middle center
 
-![bubble chart](bubble_performance.png)
+![cviz1](image/cviz1.png)
 
 ---
 
 class: middle center
 
-![IRR](IRR_Report.png)
+![cviz2](image/cviz2.png)
 
 ---
 
 class: middle center
 
-![course](course_report.png)
+![cviz3](image/cviz3.png)
+
+---
+
+class: middle center
+
+![treemap](image/curriculum_treemap.png)
+
+---
+
+class: middle center
+
+![d2l1](image/D2L.png)
+
+---
+
+class: middle center
+
+![d2l1](image/D2L2.png)
+
+---
+
+class: middle center
+
+![aggregating](image/aggregating.png)
+
+---
+
+class: middle center
+
+![bubble chart](image/bubble_performance.png)
+
+---
+
+
+class: middle center
+
+![course](image/course_report.png)
+
+---
+
+class: middle center
+
+![IRR](image/IRR_Report.png)
 
 ---
 
